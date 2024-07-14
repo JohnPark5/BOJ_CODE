@@ -2,7 +2,7 @@
 
 int main()
 {
-	int N,F,res;
+	int N,F,res=0;
 	
 	scanf("%d %d",&N,&F);
 	
